@@ -1,18 +1,11 @@
-# live_drone
+# Live Drone
 
-A new Flutter project.
+Este projeto é um modelo novo de atrair mais pessoas para área da programação. Trata-se de desenvolver/programar algo ao vivo no Facebook e no Instagram e ao mesmo tempo bater um papo com as pessoas que assistem.
+A live em questão foi realizada no Facebook e possui duas partes, contando as duas tivemos em torno de 900 visualizações, você pode acessar a parte 1 [clicando aqui](https://www.facebook.com/matheus.kildery.5/videos/3106164479501384) e a parte 2 [clicando aqui](https://www.facebook.com/matheus.kildery.5/videos/3106476746136824).
+
+## Tecnologia
+* Flutter
+
+## Resultado Final
 
 ![Imagem](https://github.com/matheuskildere/live_drone_flutter/blob/master/assets/result.png)
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
